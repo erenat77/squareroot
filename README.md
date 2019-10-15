@@ -15,4 +15,7 @@ def squareroot(n):
 
     return root
 ```
-    
+```python
+def sqrt2(n):
+    return (n**(1/2))
+```
